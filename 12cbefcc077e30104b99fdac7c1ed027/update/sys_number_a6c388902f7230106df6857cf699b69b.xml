@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_504948_sergeyapp_secondtable">x_504948_sergeyapp_secondtable</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>SEC</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-20 11:19:37</sys_created_on>
+        <sys_id>a6c388902f7230106df6857cf699b69b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SEC</sys_name>
+        <sys_package display_value="sergeyApp" source="x_504948_sergeyapp">12cbefcc077e30104b99fdac7c1ed027</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sergeyApp">12cbefcc077e30104b99fdac7c1ed027</sys_scope>
+        <sys_update_name>sys_number_a6c388902f7230106df6857cf699b69b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-20 11:19:37</sys_updated_on>
+    </sys_number>
+</record_update>
