@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="secondTable" max_length="40" name="x_504948_sergeyapp_secondtable" type="collection">
+        <element label="refcolumn" max_length="32" name="refcolumn" reference="x_504948_sergeyapp_sertable" type="reference"/>
+        <index name="index">
+            <element name="refcolumn"/>
+        </index>
+    </element>
+</database>
