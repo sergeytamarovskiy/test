@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="sertable" max_length="40" name="x_504948_sergeyapp_sertable" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Textfield" max_length="40" name="textfield" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
